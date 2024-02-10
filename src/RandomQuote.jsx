@@ -12,7 +12,6 @@ function RandomQuote() {
         let resJson = await res.json();
         let quoteRes = resJson.slip.advice;
         setAdvice(quoteRes)
-        // console.log(resJson.slip.advice);
     }
     return (
         <div className='main'>
