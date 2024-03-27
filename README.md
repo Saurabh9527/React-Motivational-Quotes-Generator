@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-This project is a simple React application that generates random motivational quotes.
+This project is a simple React application that generates random motivational quotes. 
 
 # API
 https://api.adviceslip.com/
